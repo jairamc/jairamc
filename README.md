@@ -27,4 +27,4 @@ I’m a [programmer](https://xkcd.com/303/) living in [Maidenhead, UK](https://e
 
 - [Personal website](https://jairam.dev)
 - [Linkedin](https://uk.linkedin.com/in/jairamc)
-- <a rel="me" href="https://mastodon.social/@voltaicracer">Mastodon</a>
+- [Mastodon](https://mastodon.social/@voltaicracer)
