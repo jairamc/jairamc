@@ -1,6 +1,6 @@
-### Hi there 👋
+## 🧠 Jairam Chandar
 
-<!--
+<!-- 
 **jairamc/jairamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,16 +15,70 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a [programmer](https://xkcd.com/303/) living in [Maidenhead, UK](https://en.wikipedia.org/wiki/Maidenhead). I’m also a [geek](https://xkcd.com/747/) and proud to be one.
+- Engineering Manager
+- Distributed systems enthusiast
 
-😄 Pronouns: he/him
+### 🧭 About Me
+- 🇬🇧 Based in the UK (London / Maidenhead orbit)
+- 🏢 Engineering Manager @ [Meltwater](https://www.meltwater.com)
+- 🏗️ ~15+ years building backend and data systems
+- 🎓 MSc Computer Science (Distinction), University of Edinburgh
+- 🧵 I write occasionally when something bugs me enough → [jairam.dev](https://jairam.dev)
 
-🔭 I’m currently working as a Team Lead at [Meltwater](https://www.meltwater.com) helping design & implement ML driven data-extraction solutions.
+### 📫 Elsewhere on the Internet
 
-🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
+- 🌐 https://jairam.dev — longer thoughts, fewer hot takes  
+- 🐙 https://github.com/jairamc — code and experiments  
+- 🐘 @voltaicracer@mastodon.social — occasional signals into the void  
 
-📫 You can find more about me at:
+### ⚙️ What I Actually Do
+- Design and run cloud-native systems for large-scale data extraction
+- Lead teams that ship production systems (and survive them)
+- Translate: `vague idea → architecture → running system → pager alerts → fixes → lessons`
+- Balance engineering, people, and the occasional reality check
 
-- [Personal website](https://jairam.dev)
-- [Linkedin](https://uk.linkedin.com/in/jairamc)
-- [Mastodon](https://mastodon.social/@voltaicracer)
+### 🧱 Systems I’ve Lived In
+
+If it stores, streams, or shards data, I’ve probably broken it at least once:
+
+- Hadoop, HDFS, Hive
+- Cassandra, HBase
+- Kafka, RabbitMQ
+- Elasticsearch
+
+Built systems dealing with TB-scale data per day and the kind of edge cases that only show up at 3am.
+
+### 🧰 Tech Stack (tooling changes, principles don’t)
+#### Languages:
+  - Java
+  - Scala
+  - Python
+
+#### Infrastructure:
+  - AWS (EC2, ECS, Lambda, RDS)
+  - Docker
+  - Terraform
+
+#### Patterns:
+  - Distributed systems
+  - Data pipelines
+  - Backend services
+
+### 🧪 Previous Lives
+
+- Meltwater – Principal Engineer → Team Lead → Engineering Manager
+    - Built ML-driven content extraction systems on AWS
+- QuantumBlack (McKinsey) – Platform Engineer
+    - Backend systems for data science platforms (Scala, Spark, Mesos)
+- Datasift – Big Data Engineer → Team Lead
+    - Worked on systems processing ~2TB/day of social data
+- Microsoft (earlier life) – Software Development Engineer
+    - Learned things properly the first time (mostly)
+
+
+🧩 Engineering Beliefs
+
+- Distributed systems are just failure modes wearing APIs
+- Scale reveals design flaws with theatrical timing
+- Most “technical” problems are coordination problems
+- If it’s not observable, it’s already broken (you just don’t know yet)
